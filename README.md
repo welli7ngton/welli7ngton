@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/welli7ngton) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:wellingtonasilva45@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welli7ngton&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats) ![Wellington GitHub stats](https://github-readme-stats.vercel.app/api?username=welli7ngton&show_icons=true&theme=dark)
+![Wellington GitHub stats](https://github-readme-stats.vercel.app/api?username=welli7ngton&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welli7ngton&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Estudando no momento:
 
