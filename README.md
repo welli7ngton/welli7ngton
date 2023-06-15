@@ -20,3 +20,5 @@
 #### Python progress time:
 [![Python](https://wakatime.com/badge/github/welli7ngton/Python.svg)](https://wakatime.com/badge/github/welli7ngton/Python)
 [![Biblioteca](https://wakatime.com/badge/github/welli7ngton/Projeto-Biblioteca.svg)](https://wakatime.com/badge/github/welli7ngton/Projeto-Biblioteca)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@welli7ngton/39e008c3-e009-4427-b2d1-16ab0a6fd8a2.png" /></a>
