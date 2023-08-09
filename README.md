@@ -23,12 +23,19 @@
   <img src="./img/badge.png" alt="Descrição da imagem">
 </p>
 
-## My Stats
+## Meus Status
 <div style="display: flex; justify-content: space-between;">
 
+<div style="width: auto; height: auto;">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welli7ngton&langs_count=8)
+</div>
+
+<div style="width: auto; height: auto;">
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=welli7ngton)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 </div>
 
 ### WakaTime:
