@@ -19,24 +19,13 @@
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Python-Essentials Badge
-<p align="center">
+<p>
   <img src="./img/badge.png" alt="Descrição da imagem">
 </p>
 
-## Meus Status
-<div style="display: flex; justify-content: space-between;">
-
-<div style="width: auto; height: auto;">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welli7ngton&langs_count=8)
-</div>
-
-<div style="width: auto; height: auto;">
-
+## Meu status atual
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=welli7ngton)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
-</div>
 
 ### WakaTime:
 [![wakatime](https://wakatime.com/badge/user/dcf0e22a-41eb-4c76-9126-337f24d80641.svg)](https://wakatime.com/@dcf0e22a-41eb-4c76-9126-337f24d80641)
