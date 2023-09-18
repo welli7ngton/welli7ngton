@@ -29,9 +29,6 @@
 ## Meu status atual
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=welli7ngton)](https://github.com/anuraghazra/github-readme-stats)
 
-## Roadmap.sh progress
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65086bead5295d7a811ecbb9?variant=dark)](https://roadmap.sh)
-
 
 ### WakaTime:
 [![wakatime](https://wakatime.com/badge/user/dcf0e22a-41eb-4c76-9126-337f24d80641.svg)](https://wakatime.com/@dcf0e22a-41eb-4c76-9126-337f24d80641)
