@@ -15,4 +15,3 @@ I am passionate about learning new technologies and skills that can help me grow
 ## WakaTime actual status:
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=welli7ngton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/dcf0e22a-41eb-4c76-9126-337f24d80641.svg)](https://wakatime.com/@dcf0e22a-41eb-4c76-9126-337f24d80641)
