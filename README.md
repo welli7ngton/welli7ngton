@@ -1,8 +1,9 @@
 # ℍ𝕖𝕝𝕝𝕠, 𝕀'𝕞 𝕎𝕖𝕝𝕝𝕚𝕟𝕘𝕥𝕠𝕟, 𝕨𝕖𝕝𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖
 
 ## 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:
-I am passionate about learning new technologies and skills that can help me grow as a developer and contribute to the IT industry. I am currently pursuing a Bachelor's degree in Software Engineering
-at University Center Ateneu, where I am gaining theoretical and practical knowledge of data structures, algorithms, software engineering, and artificial intelligence. I have also started a Technologist degree in Information Technology at Federal University of Ceara but I could not complete it, and a Technical degree in Computer Networks at EEP Osmira Eduardo de Castro, where I acquired the fundamentals of networking, programming, and systems administration. Additionally, I have earned multiple certifications from Udemy, Alura, and Cisco, covering Python, Java, Flask, Django, Git, Linux, programming paradigms API development, SQL, and developer's best practices, demonstrating my proficiency and commitment to continuous learning.
+I am deeply passionate about learning and mastering new technologies and skills that drive my growth as a developer and enable me to contribute meaningfully to the IT industry. Currently, I am pursuing a Bachelor's degree in Software Engineering at University Center Ateneu, where I am building a solid foundation in data structures, algorithms, software engineering, and artificial intelligence. I also hold a Technical degree in Computer Networks from EEP Osmira Eduardo de Castro, where I gained essential knowledge in networking, programming, and systems administration.
+
+In addition to my formal education, I have earned multiple certifications from renowned platforms such as Udemy, Alura, and Cisco. These certifications span a wide range of topics, including Python, Java, Flask, Django, Git, Linux, programming paradigms, API development, SQL, and best practices for developers. My commitment to continuous learning and professional development drives me to stay updated with the latest trends and advancements in technology.
 
 ## ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/welli7ngton) 
