@@ -17,3 +17,17 @@ In addition to my formal education, I have earned multiple certifications from r
 ## 𝕎𝕒𝕜𝕒𝕋𝕚𝕞𝕖 𝕤𝕥𝕒𝕥𝕦𝕤:
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=welli7ngton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🎉 Milestone: 1000+ Hours of Coding on WakaTime 🎉
+I'm thrilled to share that I’ve crossed the 1000+ hours mark of coding tracked on WakaTime! This milestone reflects the countless hours of learning, creating, and solving challenges through code.
+
+💻 Technologies Explored: From simple python programs and execercices to backend development, Java, Python, Javascript/Typescript, Docker, SQL, Web developent frameworks, personal projects and a lot more.
+
+📊 Tracking Progress: Using WakaTime has been key to staying productive and continuously improving my coding skills.
+
+🚀 Next Goal: Keep pushing boundaries and my biggest goal is 10.000!
+
+🏆 Actual status: ![Wakatime Badge](https://wakatime.com/badge/user/dcf0e22a-41eb-4c76-9126-337f24d80641.svg)
+
+You can check my latest coding stats and ongoing journey on my [Wakatime profile](https://wakatime.com/@welli7ngton).
+
+
