@@ -8,7 +8,7 @@ In addition to my formal education, I have earned multiple certifications from r
 ## ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/welli7ngton) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:wellingtonasilva45@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-a-silva-292069221)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welli7ngton/)
 [![Wakatime]( 	https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@welli7ngton)
 
 ## 𝕌𝕤𝕖𝕕 𝕥𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤:
