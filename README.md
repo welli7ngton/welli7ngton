@@ -26,17 +26,5 @@ In addition to my formal education, I have earned multiple certifications from r
   </a>
 </div>
 
-<h1>🎉 Milestone: 1000+ Hours of Coding on WakaTime 🎉</h1>
-I'm thrilled to share that I’ve crossed the 1000+ hours mark of coding tracked on WakaTime! This milestone reflects the countless hours of learning, creating, and solving challenges through code.
-
-💻 Technologies Explored: From simple python programs and execercices to backend development, Java, Python, Javascript/Typescript, Docker, SQL, Web developent frameworks, personal projects and a lot more.
-
-📊 Tracking Progress: Using WakaTime has been key to staying productive and continuously improving my coding skills.
-
-🚀 Next Goal: Keep pushing boundaries and my biggest goal is 10.000!
-
-🏆 Actual status: ![Wakatime Badge](https://wakatime.com/badge/user/dcf0e22a-41eb-4c76-9126-337f24d80641.svg)
-
-You can check my latest coding stats and ongoing journey on my [Wakatime profile](https://wakatime.com/@welli7ngton).
-
+### 🏆 Actual wakatime status: ![Wakatime Badge](https://wakatime.com/badge/user/dcf0e22a-41eb-4c76-9126-337f24d80641.svg)
 
