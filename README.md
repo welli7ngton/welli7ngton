@@ -2,7 +2,6 @@
 
 <h1>About me:</h1>
 I am deeply passionate about learning and mastering new technologies and skills that drive my growth as a developer and enable me to contribute meaningfully to the IT industry. Currently, I am pursuing a Bachelor's degree in Computer Science at Uninter, where I am building a solid foundation in data structures, algorithms, software engineering, and artificial intelligence. I also hold a Technical degree in Computer Networks from EEP Osmira Eduardo de Castro, where I gained essential knowledge in networking, programming, and systems administration.
-
 In addition to my formal education, I have earned multiple certifications from renowned platforms such as Udemy, Alura, and Cisco. These certifications span a wide range of topics, including Python, Java, Flask, Django, Git, Linux, programming paradigms, API development, SQL, and best practices for developers. My commitment to continuous learning and professional development drives me to stay updated with the latest trends and advancements in technology.
 
 <h1>Contact me: </h1>
