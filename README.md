@@ -3,7 +3,7 @@
 <h2>About me:</h2>
 <p>Self-taught and focused on innovation. I love studying technology and software development. Currently studying Computer Science, deepening knowledge in data structures, algorithms, software engineering and AI. I have a solid foundation in networks, programming and systems administration, as well as several certifications in Python, Java, Flask, Django, Git, Linux, APIs and SQL on platforms such as Udemy, Alura and Cisco. Always looking to improve skills and keep up with the latest trends in technology.</p>
 
-Resumes: [en-us](./assets/pdf/wellington_en_us_91.pdf), [pt-br](./assets/pdf/wellington_pt_br_80.pdf)
+Resumes: [en-us](./assets/pdf/wellington_en_us_91.pdf), [pt-br](./assets/pdf/75_wellington_pt_br.pdf)
 
 <h2>Contact me: </h2>
 
